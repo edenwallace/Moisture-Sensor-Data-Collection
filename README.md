@@ -10,7 +10,7 @@ My project uses hardware and software components to read & analyze data from a m
 - Arduino: Connected to Pi via USB-B
 - Moisture sensor: Inserted in soil and connected to Arduino via jumper cables
 
-##Software Details
+## Software Details
 -Python: Used mariadb, matplotlib, and numpy libraries
 Also used standard libraries such as time and serial
 SQL: Used simple SELECT and INSERT statements in MySQL workbench
