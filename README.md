@@ -11,7 +11,6 @@ My project uses hardware and software components to read & analyze data from a m
 - Moisture sensor: Inserted in soil and connected to Arduino via jumper cables
 
 ## Software Details
--Python: Used mariadb, matplotlib, and numpy libraries
-Also used standard libraries such as time and serial
-SQL: Used simple SELECT and INSERT statements in MySQL workbench
-Bash: Set up Maria DB on a Debian 10 VPS. Used TMUX to have script run while terminal was closed
+- Python: Used mariadb, matplotlib, and numpy libraries. Also used standard libraries such as time and serial
+- SQL: Used simple SELECT and INSERT statements in MySQL workbench
+- Bash: Set up Maria DB on a Debian 10 VPS. Used TMUX to have script run while terminal was closed
